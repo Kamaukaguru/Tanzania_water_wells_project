@@ -1,6 +1,6 @@
 ![Water wells](well_02.jpg)
 
-##  PREDICTING THE FUNCTIONALITY OF WATER WELLS IN TANZANIAP
+##  PREDICTING THE FUNCTIONALITY OF WATER WELLS IN TANZANIA
 
 ## Project Overview
 
@@ -24,8 +24,8 @@ Specific objectives
 
 The data is sourced from Taarifa and the Tanzanian Ministry of Water. Data utilized can be found here: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/data/
 
-For the purposes of our evaluation, we are utilizing the Training Set Labels and Training Set Values, which include data from 59,400 pumps. 
-We will then use the Test set values to test our models.
+For the purposes of our evaluation, I am utilizing the Training Set Labels and Training Set Values, which include data from 59,400 pumps. 
+I will then use the Test set values to test our models.
 
 ## Modelling and Evaluation
 
